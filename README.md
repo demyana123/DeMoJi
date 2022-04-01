@@ -1,11 +1,13 @@
 # DeMoJi
 dual-RvCore processor
 
-DeMoJi is dual-RvCore 
+DeMoJi is 32-bit dual-RvCore. It supports Multiplication,Division and atomic instructions. The processor is written in Systemverilog and designed to support multiple customized peripheral devices.
 
 It is derived from Taiga as single RvCore, if you want to see it, visit:
 
 https://gitlab.com/sfu-rcl/Taiga
+
+Simulation Environment:
 
 If you want to simlate on Veilator tool, all simulation steps and this tool are available on the previous link.
 
