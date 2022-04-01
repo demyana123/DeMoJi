@@ -1,6 +1,6 @@
 DeMoJi is dual-RvCore 
 
-It is dependent on another RvCore as single core 
+It is derived from Taiga as single RvCore, if you want to see it, visit:
 
 https://gitlab.com/sfu-rcl/Taiga
 
